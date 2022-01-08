@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/panini-nft-gallery/static/css/main.1cfa4d89.chunk.css",
-    "main.js": "/panini-nft-gallery/static/js/main.837e20a9.chunk.js",
-    "main.js.map": "/panini-nft-gallery/static/js/main.837e20a9.chunk.js.map",
+    "main.js": "/panini-nft-gallery/static/js/main.7a6cb456.chunk.js",
+    "main.js.map": "/panini-nft-gallery/static/js/main.7a6cb456.chunk.js.map",
     "runtime-main.js": "/panini-nft-gallery/static/js/runtime-main.db7c89b9.js",
     "runtime-main.js.map": "/panini-nft-gallery/static/js/runtime-main.db7c89b9.js.map",
     "static/js/2.16e6c947.chunk.js": "/panini-nft-gallery/static/js/2.16e6c947.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.db7c89b9.js",
     "static/js/2.16e6c947.chunk.js",
     "static/css/main.1cfa4d89.chunk.css",
-    "static/js/main.837e20a9.chunk.js"
+    "static/js/main.7a6cb456.chunk.js"
   ]
 }
